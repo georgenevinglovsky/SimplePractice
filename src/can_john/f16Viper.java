@@ -1,8 +1,9 @@
 package can_john;
-
+import javax.swing.*;
 public class f16Viper {
     public static void main(String[] args) {
-        System.out.println("SAY YOUR NAME LOUDLY!");
-        //aaaa
+        if (true) {
+            JOptionPane.showMessageDialog(null, "HAPPY CHRISTMAS GEORGE!\uD83D\uDC97\uD83D\uDC97\uD83D\uDC97\uD83D\uDC97\uD83D\uDC97");
+        }
     }
 }
